@@ -1,0 +1,18 @@
+body {
+  color: #F2F6F3;
+  background: #151515;
+  text-align: justify;
+}
+
+p img, li img, h1 img, h2 img, h3 img, h4 img, dt img {
+	max-height: 1em;
+	max-width: 1em;
+	vertical-align: middle ;
+}
+
+a { color: #A5D6FF ; text-decoration: none ;}
+
+dl { 
+  display: inline-flex;
+  text-align: center;
+}
