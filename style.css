@@ -16,3 +16,20 @@ dl {
   display: inline-flex;
   text-align: center;
 }
+
+footer {
+	text-align: center ;
+	font-variant: small-caps ;
+	clear: both ;
+	padding: 2em 0 ;
+}
+
+footer li {
+	display: inline-block ;
+	padding: 0 .5em ;
+	font-size: x-large ;
+}
+
+footer li:hover {
+	background: #A5D6FF  ;
+}
