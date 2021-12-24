@@ -93,3 +93,10 @@ nav li, footer li, .tag-list li{
 	padding: .5em;
 	max-width: 7em;
 }
+
+code {
+	background: #222 ;
+	color: var(--limish) ;
+	border-radius: 5px ;
+	overflow-wrap: break-word ;
+}
