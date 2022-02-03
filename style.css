@@ -1,5 +1,4 @@
 html {
-	color: #d8dee9;
 	font-family: sans-serif;
 }
 
@@ -12,15 +11,12 @@ html {
 }
 
 body {
-  color: #F2F6F3;
-  background: #151515;
   text-align: justify;
   font-style: sans-serif ;
 }
 
 h1 {
 	text-align: center ;
-	color: lightgreen ;
 }
 
 ul, ol {
@@ -47,7 +43,7 @@ p img, li img, h1 img, h2 img, h3 img, h4 img, dt img {
 	display: inline ;
 }
 
-a { color: #A5D6FF ; text-decoration: none ;}
+a { text-decoration: none ;}
 
 dl { 
   display: inline-flex;
@@ -67,10 +63,6 @@ footer li {
 	font-size: x-large ;
 }
 
-footer li:hover {
-	background: #A5D6FF  ;
-}
-
 nav, footer, .tag-list{
 	text-align: center;
 	font-variant: small-caps;
@@ -86,7 +78,7 @@ nav ul, footer ul, .tag-list {
 }
 
 nav li, footer li, .tag-list li{
-	color: wheat;
+	/* color: wheat; */
 	display: inline-block;
 	list-style: none;
 	border-radius: 10px;
@@ -95,8 +87,6 @@ nav li, footer li, .tag-list li{
 }
 
 code {
-	background: #222 ;
-	color: var(--limish) ;
 	border-radius: 5px ;
 	overflow-wrap: break-word ;
 }
