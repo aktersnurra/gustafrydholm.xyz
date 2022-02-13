@@ -1,18 +1,9 @@
-html {
-	font-family: sans-serif;
-}
-
-.column {
-	margin-bottom: 1em;
-}
-
-.column h1, .column h2, .column h3, .column h4, .column h5 {
-	margin-top: 0;
-}
-
 body {
   text-align: justify;
   font-style: sans-serif ;
+  max-width: 600px ;
+  margin-left: auto ;
+  margin-right: auto ;
 }
 
 h1 {
@@ -42,8 +33,11 @@ p img, li img, h1 img, h2 img, h3 img, h4 img, dt img {
 	border: none ;
 	display: inline ;
 }
-
-a { text-decoration: none ;}
+/* "a" is for links. */
+a {
+    color: blue ;
+    text-decoration: none ;
+}
 
 dl { 
   display: inline-flex;
@@ -78,7 +72,7 @@ nav ul, footer ul, .tag-list {
 }
 
 nav li, footer li, .tag-list li{
-	color: black;
+	color: blue;
 	display: inline-block;
 	list-style: none;
 	border-radius: 10px;
