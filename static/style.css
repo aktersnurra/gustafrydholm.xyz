@@ -1,0 +1,98 @@
+body {
+	background: #033 ;
+	color: brown ;
+	max-width: 850px ;
+	margin: auto ;
+	padding: 0 16px ;
+	margin-bottom: 500px ;
+	scrollbar-color: gray #151515;
+	font-family: sans-serif ;
+}
+
+main {
+	max-width: 800px ;
+	margin: auto ;
+}
+
+main > article {
+	background: #88afa2 ;
+	color: #151515 ;
+	margin-bottom: 0 ;
+	padding: 3.5em ;
+	border-color: #1e4e76 ;
+	border-width: 0.25em 0.25em 0.25em .25em ;
+	border-style: solid ;
+  text-align: justify;
+	border-radius: 0 ;
+	margin: auto ;
+}
+
+img {
+	max-width: 100% ;
+}
+
+header h1 {
+	text-align: center ;
+  text-shadow: 3px 0 black, 3px 3px black, 0 3px black;
+}
+
+h1 {
+	border-style: solid ;
+	border-width: 0px 0px 2px 0px ;
+	text-align: center ;
+}
+
+h2 {
+	color: #151515 ;
+	text-align: center ;
+}
+
+footer {
+	max-width: 300px ;
+	background: #88afa2 ;
+	margin-left: auto ;
+	margin-right: auto ;
+	margin-top: -4px ;
+	text-align: center ;
+	clear: both ;
+	border-color: #1e4e76 ;
+	border-width: 0em 0.25em 0.25em 0.25em ;
+	border-style: solid ;
+	border-radius: 0 0 0 0 ;
+}
+
+code {
+	color: #373737 ;
+	overflow-wrap: break-word ;
+	font-size: 10pt ;
+}
+
+/* For TAGLIST.HTML */
+.taglist {
+	text-align: center ;
+	clear: both ;
+}
+
+/* For NEXTPREV.HTML */
+#nextprev {
+	/* The container for both the previous and next articles. */
+}
+
+#prevart {
+	float: left ;
+	text-align: left ;
+}
+
+#nextart {
+	float: right ;
+	text-align: right ;
+}
+
+#nextart,#prevart {
+	max-width: 33% ;
+}
+
+table, th, td {
+  width: 400px ;
+  border: 1px solid;
+}
