@@ -64,7 +64,7 @@ interacted with.
 | neomutt    | Proficient   |
 
 I have plans on learning [Nomad](https://www.nomadproject.io), as this seems to
-be a better copy of k8s. I am also moving to [podman](https://podman.io/)
+be a better alternative of k8s. I am also moving to [podman](https://podman.io/)
 next time I work with containers in my spare time. I am also keen working more
 with service meshes, to improve my knowledge of their capabilities.
 
