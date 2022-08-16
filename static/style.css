@@ -1,11 +1,11 @@
 body {
-	background: #033 ;
+	background: #073642 ;
 	color: brown ;
 	max-width: 850px ;
 	margin: auto ;
 	padding: 0 16px ;
 	margin-bottom: 500px ;
-	scrollbar-color: gray #151515;
+	scrollbar-color: #151515 ;
 	font-family: sans-serif ;
 }
 
@@ -15,7 +15,7 @@ main {
 }
 
 main > article {
-	background: #88afa2 ;
+	background: #EEE8D5 ;
 	color: #151515 ;
 	margin-bottom: 0 ;
 	padding: 3.5em ;
@@ -49,7 +49,7 @@ h2 {
 
 footer {
 	max-width: 300px ;
-	background: #88afa2 ;
+	background: #EEE8D5 ;
 	margin-left: auto ;
 	margin-right: auto ;
 	margin-top: -4px ;
