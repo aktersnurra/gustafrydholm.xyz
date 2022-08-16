@@ -14,8 +14,8 @@ book reviews/notes, cv, and digital contact information.
 ### On this website...
 
 - [Projects](/projects)
-- [Contact](/contact)
 - [CV](/cv)
+- [Contact](/contact)
 
 ## Software
 

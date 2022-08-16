@@ -47,7 +47,7 @@ A short summery of some of my most relevant technical skills.
 
 #### Software
 
-Here is a list some software that might be worth mentioning that I have
+Here is a table some software that might be worth mentioning that I have
 interacted with.
 
 | Name       | Level        |
@@ -68,10 +68,6 @@ be a better copy of k8s. I am also moving to [podman](https://podman.io/)
 next time I work with containers in my spare time. I am also keen working more
 with service meshes, to improve my knowledge of their capabilities.
 
-#### Machine Learning
-
-tbc
-
 #### Operating Systems
 
 I use Artix Linux as my daily OS. However, I would like to transition to OpenBSD
@@ -80,7 +76,7 @@ Unfortunately, I use macOS for work.
 
 #### Workflow
 
-I use neovim for all my development, together with dwm as a tiling
+I use neovim for all development, together with dwm as a tiling
 window manager, and st as the terminal of choice. I am very happy with this
 setup, but would like to improve the workflow with increased tmux usage and
 git worktrees, à la [ThePrimeagen](https://www.youtube.com/watch?v=GXxvxSlzJdI).
@@ -103,6 +99,10 @@ should almost be provocatively small, most communication between services
 should be asynchronous. You should at all cost avoid building a distributed
 monolith with entangled dependencies.
 
+#### Machine Learning
+
+tbc
+
 #### Miscellaneous
 
 | What      | Level        |
@@ -121,7 +121,7 @@ monolith with entangled dependencies.
 - Saab AB.
   - Machine Learning Engineer. Aug 2018 -- Aug 2021
 
-    blablabla
+    tbc
 
 ### Institutions
 
