@@ -3,8 +3,23 @@
 </article>
 </main>
 <footer>
-	<a href="{{ .Site.BaseURL }}">{{ .Site.BaseURL }}</a><br><br>
-	<a href="/index.xml"><img src="/rss.svg" style="max-height:1.5em" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
+  {{- if isset .Params "tags" -}}
+  {{- $tagsLen := len .Params.tags -}}
+  {{- if gt $tagsLen 0 -}}
+  <div style="clear:both" class=taglist>
+    {{- with .Site.Params.relatedtext }}{{ . }}<br>{{ end -}}
+    {{- range $k, $v := .Params.tags -}}
+    {{- $url := printf "tags/%s" (. | urlize | lower) -}}
+    <a id="tag_{{ . | lower }}" href="{{ $url | absURL }}">{{ . | title }}</a>
+    {{- if lt $k (sub $tagsLen 1) }} &middot; {{ end -}}
+    {{- end -}}
+  </div>
+  {{- end -}}
+  {{- end }}
+  <a href="{{ .Site.BaseURL }}">{{ .Site.BaseURL }}</a><br><br>
+  <a href="/index.xml"><img src="/rss.svg" style="max-height:1.5em" alt="RSS Feed"
+      title="Subscribe via RSS for updates."></a>
 </footer>
 </body>
+
 </html>
