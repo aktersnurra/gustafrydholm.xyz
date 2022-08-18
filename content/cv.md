@@ -125,7 +125,7 @@ tbc...
 
 ### Experience
 
-- Nexure AB.
+- Nexure AB
   - Software Engineer. Aug 2021 -- Present
     - Develop and maintain microservices for payments and subscriptions.
     - Take part in architectural design discussions.
@@ -138,7 +138,7 @@ tbc...
     *Keywords: Microservices, Kubernetes, Infrastructure, Helm, CI/CD, Kotlin,
     Spring, AWS, Terraform*
 
-- Saab AB.
+- Saab AB
   - Machine Learning Engineer. Aug 2018 -- Aug 2021
       - Intelligence Application. Aug 2020 -- Aug 2021
         - Created data mining pipelines for extracting, cleaning, and create
