@@ -127,11 +127,16 @@ tbc...
 
 - Nexure AB.
   - Software Engineer. Aug 2021 -- Present
-    - bla bla
+    - Develop and maintain microservices for payments and subscriptions.
+    - Take part in architectural design discussions.
+    - Participated in the code review process.
+    - Contribute to the infrastructure with updates to k8s resources and AWS
+    resource management via Terraform.
+    - Monitor logs for bugs in different environments, e.g. staging and
+    production.
 
-    I develop and maintain backend web services (microservices) in the
-    payments/subscription domain. From time to time I also do some
-    infrastructure work in k8s and AWS with terraform.
+    *Keywords: Microservices, Kubernetes, Infrastructure, Helm, CI/CD, Kotlin,
+    Spring, AWS, Terraform*
 
 - Saab AB.
   - Machine Learning Engineer. Aug 2018 -- Aug 2021
@@ -155,8 +160,8 @@ tbc...
         - Developed a graph algorithm for sensor fusion. Deployed it as a
         microservice listing to incoming sensor data. This enabled more complex
         pattern analysis in downstream services.
-        - Improved the docker image size of microservices from ~2 GB to ~73 MB
-        by utilizing multistage builds and alpine base images.
+        - Improved the docker image size of the Python microservices from ~2 GB
+        to ~73 MB by utilizing multistage builds and alpine base images.
         - Built pipelines for CI/CD and packages deployment in Tekton.
         - With my docker images and pipelines we where able to reduce the
         average build times from ~10-30 minutes down to seconds, mostly thanks
@@ -166,7 +171,18 @@ tbc...
         Helm, CI/CD*
 
       - Radar Warning Receiver. Aug 2018 -- Aug 2020
-        - bla bla
+        - Built simulation software for generating realistic signal
+        environments with both radar and/or communication signals. Implemented
+        the most common signal encoding for communications, as well as
+        basic to SOTA radar modulations. This enabled the team to develop and
+        evaluate different machine learning models and ideas.
+        - Researched machine learning models in different stages of the radar
+        warning receiver, and where it would be possible computationally and
+        data availability.
+        - Held in several presentations of machine learning papers in a company
+        reading group.
+
+        *Keywords: Deep Learning, Signal Processing*
 
 ### Institutions
 
