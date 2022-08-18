@@ -44,6 +44,7 @@ interesting and a language I will explore more.
 | Type         | Implementation        |
 | ------------ | --------------------- |
 | Cache        | Redis                 |
+| Graph        | ArangoDB              |
 | Index        | Elasticsearch         |
 | Message bus  | Kafka, SQS            |
 | NoSQL        | MongoDB               |
@@ -55,8 +56,8 @@ and [meilisearch](https://www.meilisearch.com/) for indexing.
 
 #### Software
 
-Here is a table of some software that might be worth mentioning that I have
-interacted with.
+Here is a collection of software that I have interacted with that might be
+worth mentioning.
 
 | Name       | Level        |
 | ---------- | ------------ |
@@ -73,8 +74,8 @@ interacted with.
 
 I have plans on learning [Nomad](https://www.nomadproject.io), as this seems to
 be a better alternative of k8s. I am also moving to [podman](https://podman.io/)
-next time I work with containers in my spare time. I am also keen working more
-with service meshes, to improve my knowledge of their capabilities.
+next time I work with containers in my spare time. I am also keen on working
+more with service meshes, to improve my knowledge of their capabilities.
 
 #### Operating Systems
 
@@ -84,7 +85,7 @@ Unfortunately, I use macOS for work.
 
 #### Workflow
 
-I use neovim for all development, together with dwm as a tiling
+I use Neovim for all development, together with dwm as a tiling
 window manager, and st as the terminal of choice. I am very happy with this
 setup, but would like to improve the workflow with increased tmux usage and
 git worktrees, à la [ThePrimeagen](https://www.youtube.com/watch?v=GXxvxSlzJdI).
@@ -126,6 +127,7 @@ tbc...
 
 - Nexure AB.
   - Software Engineer. Aug 2021 -- Present
+    - bla bla
 
     I develop and maintain backend web services (microservices) in the
     payments/subscription domain. From time to time I also do some
@@ -133,8 +135,38 @@ tbc...
 
 - Saab AB.
   - Machine Learning Engineer. Aug 2018 -- Aug 2021
+      - Intelligence Application. Aug 2020 -- Aug 2021
+        - Created data mining pipelines for extracting, cleaning, and create
+        datasets for machine learning models, i.e. train/test sets.
+        - Was a driving force in making the system more asynchronous using
+        message passing between microservices, by deploying and maintaining a
+        Kafka instance. This improve the architecture by allowing multiple
+        services to subscribe to incoming sensor data and process the
+        information, instead of fetching the data from databases in batches.
+        - Developed a modular pipeline for training and evaluating deep learning
+        models with different architectures and/or losses. Automatic extraction
+        of the best model based on user defined metric, ready for serving.
+        - Built and deployed deep learning models for multi-modal trajectory
+        predictions in production.
+        - Deployed and maintained a private Python Package Index (PyPI) for all
+        developers. Greatly improving the development workflow, e.g. forcing
+        versioning, and reducing/eliminating cross dependencies between locally
+        developed Python packages.
+        - Developed a graph algorithm for sensor fusion. Deployed it as a
+        microservice listing to incoming sensor data. This enabled more complex
+        pattern analysis in downstream services.
+        - Improved the docker image size of microservices from ~2 GB to ~73 MB
+        by utilizing multistage builds and alpine base images.
+        - Built pipelines for CI/CD and packages deployment in Tekton.
+        - With my docker images and pipelines we where able to reduce the
+        average build times from ~10-30 minutes down to seconds, mostly thanks
+        to improved caching capabilities.
 
-    tbc
+        *Keywords: Deep Learning, Microservices, Kubernetes, Infrastructure,
+        Helm, CI/CD*
+
+      - Radar Warning Receiver. Aug 2018 -- Aug 2020
+        - bla bla
 
 ### Institutions
 
@@ -148,3 +180,10 @@ tbc...
 - Economics I. Stockholms universitet. 2013
 
 - Political Science I. Stockholms universitet. 2011
+
+### Languages
+
+| Language | Level  |
+| -------- | ------ |
+| Swedish  | Native |
+| English  | C2     |
