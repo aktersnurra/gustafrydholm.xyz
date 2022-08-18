@@ -19,49 +19,57 @@ A short summery of some of my most relevant technical skills.
 
 | Language | Level        |
 | -------- | ------------ |
-| Haskell  | Intermediate |
-| Python   | Fluent       |
-| Fennel   | Fluent       |
-| Lua      | Fluent       |
-| Shell    | Fluent       |
-| Rust     | Basic        |
-| VHDL     | Basic        |
 | C        | Superficial  |
+| Fennel   | Fluent       |
+| Haskell  | Intermediate |
+| Lua      | Fluent       |
+| Python   | Fluent       |
+| Rust     | Basic        |
+| Shell    | Fluent       |
+| VHDL     | Basic        |
+
+Haskell is a language I want to master. I find Rust's ownership model
+interesting and a language I will explore more.
 
 #### Markup
 
 | Language | Level        |
 | -------- | ------------ |
+| HTML     | Proficient   |
 | LaTeX    | Fluent       |
 | markdown | Fluent       |
-| HTML     | Proficient   |
 
 #### Databases
 
 | Type         | Implementation        |
 | ------------ | --------------------- |
+| Cache        | Redis                 |
+| Index        | Elasticsearch         |
+| Message bus  | Kafka, SQS            |
 | NoSQL        | MongoDB               |
 | SQL          | Postgres, TimescaleDB |
-| Memory Cache | Redis                 |
-| Message bus  | Kafka, SQS, Nats      |
+
+I would like to try out [Nats](https://nats.io/) as a message broker,
+[skytable](https://github.com/skytable/skytable) as NoSQL database,
+and [meilisearch](https://www.meilisearch.com/) for indexing.
 
 #### Software
 
-Here is a table some software that might be worth mentioning that I have
+Here is a table of some software that might be worth mentioning that I have
 interacted with.
 
 | Name       | Level        |
 | ---------- | ------------ |
-| Git        | Fluent       |
-| Kubernetes | Proficient   |
-| Helm       | Proficient   |
-| Terraform  | Intermediate |
 | CircleCI   | Proficient   |
-| Tekton     | Proficient   |
 | Docker     | Fluent       |
+| Git        | Fluent       |
+| Helm       | Proficient   |
+| Kubernetes | Proficient   |
+| Neomutt    | Proficient   |
 | Neovim     | Fluent       |
-| tmux       | Proficient   |
-| neomutt    | Proficient   |
+| Tekton     | Proficient   |
+| Terraform  | Intermediate |
+| Tmux       | Intermediate |
 
 I have plans on learning [Nomad](https://www.nomadproject.io), as this seems to
 be a better alternative of k8s. I am also moving to [podman](https://podman.io/)
@@ -80,7 +88,8 @@ I use neovim for all development, together with dwm as a tiling
 window manager, and st as the terminal of choice. I am very happy with this
 setup, but would like to improve the workflow with increased tmux usage and
 git worktrees, à la [ThePrimeagen](https://www.youtube.com/watch?v=GXxvxSlzJdI).
-I use a ferris sweep keyboard with Colemak Mod-DH layout. I moved on from
+I use a [ferris sweep](https://github.com/davidphilipbarr/Sweep) keyboard with
+[Colemak Mod-DH](https://colemakmods.github.io/mod-dh/) layout. I moved on from
 qwerty as I do not believe that you should go through life using suboptimal
 solutions from the past, just because you cannot bother learning something new.
 
@@ -96,18 +105,22 @@ that you develop better software by following these principles.
 For designing and implementing distributed web service systems, I really like
 the framework presented in the book *The Tao of Microservices*. Web services
 should almost be provocatively small, most communication between services
-should be asynchronous. You should at all cost avoid building a distributed
-monolith with entangled dependencies.
+should be asynchronous. It is important to reason and respect separation of concerns.
+You should at all cost avoid building a distributed monolith with entangled dependencies.
 
 #### Machine Learning
 
 tbc...
 
+#### Signal Processing
+
+tbc...
+
 #### Miscellaneous
 
-| What      | Level        |
-| --------- | ------------ |
-| Soldering | Intermediate |
+| What      | Level |
+| --------- | ----- |
+| Soldering | Basic |
 
 ### Experience
 
