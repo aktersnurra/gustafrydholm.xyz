@@ -141,7 +141,7 @@ tbc...
 - Saab AB
   - Machine Learning Engineer. Aug 2018 -- Aug 2021
       - Intelligence Application. Aug 2020 -- Aug 2021
-        - Created data mining pipelines for extracting, cleaning, and create
+        - Created data mining pipelines for extracting, cleaning, and creating
         datasets for machine learning models, i.e. train/test sets.
         - Was a driving force in making the system more asynchronous using
         message passing between microservices, by deploying and maintaining a
@@ -153,10 +153,10 @@ tbc...
         of the best model based on user defined metric, ready for serving.
         - Built and deployed deep learning models for multi-modal trajectory
         predictions in production.
-        - Deployed and maintained a private Python Package Index (PyPI) for all
-        developers. Greatly improving the development workflow, e.g. forcing
-        versioning, and reducing/eliminating cross dependencies between locally
-        developed Python packages.
+        - Took initiative and deployed and maintained a private Python Package
+        Index (PyPI) for all developers. Greatly improving the development
+        workflow, e.g. forcing versioning, and reducing/eliminating cross
+        dependencies between locally developed Python packages.
         - Developed a graph algorithm for sensor fusion. Deployed it as a
         microservice listing to incoming sensor data. This enabled more complex
         pattern analysis in downstream services.
