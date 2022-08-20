@@ -113,10 +113,6 @@ You should at all cost avoid building a distributed monolith with entangled depe
 
 tbc...
 
-#### Signal Processing
-
-tbc...
-
 #### Miscellaneous
 
 | What      | Level |
@@ -186,7 +182,7 @@ tbc...
 ### Institutions
 
 - M.Sc., Electrical Engineering. Kungliga Tekniska Högskolan. 2013 -- 2018
-    - Major in Machine Learning
+  - Specialization in Machine Learning
 
 - Exchange Year. Imperial College London. 2016 -- 2017
 
