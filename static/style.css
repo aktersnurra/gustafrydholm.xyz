@@ -1,7 +1,7 @@
 body {
 	background: #073642 ;
 	color: brown ;
-	max-width: 850px ;
+	max-width: 950px ;
 	margin: auto ;
 	padding: 0 16px ;
 	margin-bottom: 500px ;
@@ -10,7 +10,7 @@ body {
 }
 
 main {
-	max-width: 800px ;
+	max-width: 950px ;
 	margin: auto ;
 }
 
@@ -18,7 +18,7 @@ main > article {
 	background: #EEE8D5 ;
 	color: #151515 ;
 	margin-bottom: 0 ;
-	padding: 3.5em ;
+	padding: 3em ;
 	border-color: #1e4e76 ;
 	border-width: 0.25em 0.25em 0.25em .25em ;
 	border-style: solid ;
