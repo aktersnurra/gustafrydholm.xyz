@@ -47,6 +47,11 @@ h2 {
 	text-align: center ;
 }
 
+ul {
+  margin: 1em;
+  padding: 0;
+}
+
 footer {
 	max-width: 300px ;
 	background: #EEE8D5 ;
