@@ -20,7 +20,7 @@ A short summery of some of my most relevant technical skills.
 | Language | Level        |
 | -------- | ------------ |
 | C        | Superficial  |
-| Fennel   | Fluent       |
+| Fennel   | Proficient   |
 | Haskell  | Intermediate |
 | Lua      | Fluent       |
 | Python   | Fluent       |
@@ -65,12 +65,13 @@ worth mentioning.
 | Docker     | Fluent       |
 | Git        | Fluent       |
 | Helm       | Proficient   |
+| Hugo       | Intermediate |
 | Kubernetes | Proficient   |
 | Neomutt    | Proficient   |
 | Neovim     | Fluent       |
 | Tekton     | Proficient   |
 | Terraform  | Intermediate |
-| Tmux       | Intermediate |
+| Tmux       | Proficient   |
 
 I have plans on learning [Nomad](https://www.nomadproject.io), as this seems to
 be a better alternative of k8s. I am also moving to [podman](https://podman.io/)
