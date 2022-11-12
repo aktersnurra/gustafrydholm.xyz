@@ -134,51 +134,50 @@ tbc...
   *Keywords: Microservices, Kubernetes, Infrastructure, Helm, CI/CD, Kotlin,
   Spring, AWS, Terraform*
 
-- Machine Learning Engineer. Saab AB. Aug 2018 -- Aug 2021
-    - Intelligence Application. Aug 2020 -- Aug 2021
-      - Created data mining pipelines for extracting, cleaning, and creating
-      datasets for machine learning models, i.e. train/test sets.
-      - Was a driving force in making the system more asynchronous using
-      message passing between microservices, by deploying and maintaining a
-      Kafka instance. This improve the architecture by allowing multiple
-      services to subscribe to incoming sensor data and process the
-      information, instead of fetching the data from databases in batches.
-      - Developed a modular pipeline for training and evaluating deep learning
-      models with different architectures and/or losses. Automatic extraction
-      of the best model based on user defined metric, ready for serving.
-      - Built and deployed deep learning models for multi-modal trajectory
-      predictions in production.
-      - Took initiative and deployed and maintained a private Python Package
-      Index (PyPI) for all developers. Greatly improving the development
-      workflow, e.g. forcing versioning, and reducing/eliminating cross
-      dependencies between locally developed Python packages.
-      - Developed a graph algorithm for sensor fusion. Deployed it as a
-      microservice listing to incoming sensor data. This enabled more complex
-      pattern analysis in downstream services.
-      - Reduced the docker image size of the Python microservices from ~2 GB
-      to ~73 MB by utilizing multistage builds and alpine base images.
-      - Built pipelines for CI/CD and packages deployment in Tekton.
-      - With my docker images and pipelines we where able to reduce the
-      average build times from ~10-30 minutes down to seconds, mostly thanks
-      to improved caching capabilities.
+- Machine Learning Engineer (Cyber Security). Saab AB. Aug 2020 -- Aug 2021
+  - Created data mining pipelines for extracting, cleaning, and creating
+  datasets for machine learning models, i.e. train/test sets.
+  - Was a driving force in making the system more asynchronous using
+  message passing between microservices, by deploying and maintaining a
+  Kafka instance. This improve the architecture by allowing multiple
+  services to subscribe to incoming sensor data and process the
+  information, instead of fetching the data from databases in batches.
+  - Developed a modular pipeline for training and evaluating deep learning
+  models with different architectures and/or losses. Automatic extraction
+  of the best model based on user defined metric, ready for serving.
+  - Built and deployed deep learning models for multi-modal trajectory
+  predictions in production.
+  - Took initiative and deployed and maintained a private Python Package
+  Index (PyPI) for all developers. Greatly improving the development
+  workflow, e.g. forcing versioning, and reducing/eliminating cross
+  dependencies between locally developed Python packages.
+  - Developed a graph algorithm for sensor fusion. Deployed it as a
+  microservice listing to incoming sensor data. This enabled more complex
+  pattern analysis in downstream services.
+  - Reduced the docker image size of the Python microservices from ~2 GB
+  to ~73 MB by utilizing multistage builds and alpine base images.
+  - Built pipelines for CI/CD and packages deployment in Tekton.
+  - With my docker images and pipelines we where able to reduce the
+  average build times from ~10-30 minutes down to seconds, mostly thanks
+  to improved caching capabilities.
 
-      *Keywords: Deep Learning, Python, Microservices, Kubernetes,
-      Infrastructure, Helm, CI/CD*
+  *Keywords: Deep Learning, Python, Microservices, Kubernetes,
+  Infrastructure, Helm, CI/CD*
 
-    - Radar Warning Receiver. Aug 2018 -- Aug 2020
-      - Built simulation software for generating realistic signal
-      environments with both radar and/or communication signals. Implemented
-      the most common signal encoding for communications, as well as
-      basic to SOTA radar modulations. This enabled the team to develop and
-      evaluate different machine learning models and ideas.
-      - Researched machine learning models in different stages of the radar
-      warning receiver, with regards to compute and data limitations.
-      - Held in several presentations of machine learning papers in a company
-      reading group.
-      - Shared the knowledge of implementing and using machine learning to
-      multiple business areas within Saab.
+- Machine Learning Engineer (Surveillance). Saab AB. Aug 2018 -- Aug 2020
+  - Built simulation software for generating realistic signal
+  environments with both radar and/or communication signals. Implemented
+  the most common signal encoding for communications, as well as
+  basic to SOTA radar modulations. This enabled the team to develop and
+  evaluate different machine learning models and ideas.
+  - Researched machine learning models in different stages of the radar
+  warning receiver, with regards to compute and data limitations.
+  - Held in several presentations of machine learning papers in a company
+  reading group.
+  - Shared the knowledge of implementing and using machine learning to
+  multiple business areas within Saab.
 
-      *Keywords: Deep Learning, Signal Processing, Python, VHDL*
+  *Keywords: Deep Learning, Signal Processing, Python, VHDL*
 
 ### Institutions
 

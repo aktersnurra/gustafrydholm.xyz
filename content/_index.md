@@ -1,6 +1,6 @@
 ---
 title: "Gustaf Rydholm's Webpage"
-description: "tbc"
+description: "Landing Page"
 ---
 
 ## Introduction
@@ -14,6 +14,7 @@ book reviews/notes, cv, and digital contact information.
 ### On this website...
 
 - [Projects](/projects)
+- [Notes](/notes)
 - [CV](/cv)
 - [Contact](/contact)
 
