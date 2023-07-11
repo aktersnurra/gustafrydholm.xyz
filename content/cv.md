@@ -23,13 +23,13 @@ A short summery of some of my most relevant technical skills.
 | Fennel   | Proficient   |
 | Haskell  | Intermediate |
 | Lua      | Fluent       |
+| Ocaml    | Basic        |
 | Python   | Fluent       |
 | Rust     | Basic        |
 | Shell    | Fluent       |
 | VHDL     | Basic        |
 
-Haskell is a language I want to master. I find Rust's ownership model
-interesting and a language I will explore more.
+In my spare time I am focusing on improving my skills in Haskell and Ocaml.
 
 #### Markup
 
