@@ -104,11 +104,11 @@ Ingredients:
 - Basil
 
 1. Add **clarified butter** (or **olive oil**) to the pan you fried the chicken in
-2. Add **onions** and let them fry for a min
-3. Optionally add **bell peppers** and **mushrooms**, fry until they start to become cooked
-4. Add **garlic** and **chili**, fry for another min
+2. Add **onions** and saute
+3. Optionally add **bell peppers** and **mushrooms**
+4. Add **garlic** and **chili**, cook for another min
 5. Add **tomato paste** and stir the pan, cook for another min
-6. Deglaze the pan with the **wine**
+6. Deglaze the pan with the **white wine**
 7. Add **chicken stock** and cook for a couple of min
 8. Add **heavy cream** and cook for a couple of min
 9. Lower the heat to 3/9
