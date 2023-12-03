@@ -1,7 +1,7 @@
 ---
 title: "Tuscan Chicken"
 date: 2023-12-02 23:52:01+01:00
-tags: ["chicken"]
+tags: ["chicken", "italian"]
 draft: false
 ---
 
@@ -15,28 +15,28 @@ draft: false
 - Tomato paste
 - Sun-dried tomatoes
 - White wine (one glass)
-- Chicken stock
+- Chicken Stock
 - Heavy cream
-- Parmesan Cheese
+- Parmesan
 - Basil
 - Baby spinach
-- Olive Oil
-- Bell Pepper (Optional)
-- Mushrooms (Optional)
-- Peperoncini Piccanti (Optional)
-- Clarified Butter (Optional)
+- Olive oil
+- Bell pepper (optional)
+- Mushrooms (optional)
+- Peperoncini piccanti (optional)
+- Clarified butter (optional)
 
 ### Spices
 
-- Onion Powder
-- Garlic Powder
+- Onion powder
+- Garlic powder
 - Paprika
 - Oregano
 
 ### Side Dish Suggestion
 
 - Rice
-- Mashed Potato
+- Mashed potato
 - Pasta
 
 # Directions
@@ -50,11 +50,11 @@ draft: false
 
 Ingredients:
 
-- 4 pieces of Chicken (at least)
-- Olive Oil
-- 1 tsp Onion Powder
-- 1 tsp Garlic Powder
-- 1/2 tsp Paprika
+- 4 pieces of chicken (at least)
+- Olive oil
+- 1 tsp onion powder
+- 1 tsp garlic powder
+- 1/2 tsp paprika
 - Salt & pepper to taste
 
 1. Apply **spices and seasoning** to chicken
@@ -64,13 +64,13 @@ Ingredients:
 
 Ingredients:
 
-- 1 Onion
-- 6 Garlic Cloves
-- 100 g Sun-dried tomatoes
-- Baby Spinach
-- Mushrooms (Optional)
-- Bell Pepper (Optional)
-- Peperoncini Piccanti (Optional)
+- 1 onion
+- 6 garlic cloves
+- 100 g sun-dried tomatoes
+- Baby spinach
+- Mushrooms (optional)
+- Bell pepper (optional)
+- Peperoncini piccanti (optional)
 
 1. Chop the **onion, garlic, Sun-dried tomatoes**, and optionally the **bell pepper, mushrooms**
    and **one chili**
@@ -92,16 +92,16 @@ Ingredients:
 
 - Chopped onion, garlic, sun-dried tomatoes
 - Chopped mushrooms, bell pepper, chili (all optional)
-- 1 Tbsp clarified butter (or olive oil)
-- 1 Tbsp tomato paste
+- 1 tbsp clarified butter (or olive oil)
+- 1 tbsp tomato paste
 - 1 tsp oregano
 - 1/2 tsp paprika
 - 100 ml white wine
 - 180 ml chicken stock
 - 4 dl heavy cream
-- 60 g Parmesan cheese
-- baby spinach
-- basil
+- 60 g parmesan
+- Baby spinach
+- Basil
 
 1. Add **clarified butter** (or **olive oil**) to the pan you fried the chicken in
 2. Add **onions** and let them fry for a min
@@ -112,7 +112,7 @@ Ingredients:
 7. Add **chicken stock** and cook for a couple of min
 8. Add **heavy cream** and cook for a couple of min
 9. Lower the heat to 3/9
-10. Grate the **Parmesan** into the sause
+10. Grate the **Parmesan** into the sauce
 11. Add **basil** and **spinach**, stir, and cook for a min
 12. Add **chicken** from the oven and let it cook with the sauce
 13. Taste and add seasoning if needed

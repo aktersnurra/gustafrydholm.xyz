@@ -1,7 +1,7 @@
 ---
 title: "Pork Chop Normandy"
 date: 2023-12-03 00:59:53+01:00
-tags: ["pork", "apple"]
+tags: ["pork", "apple", "french"]
 draft: false
 ---
 
@@ -9,21 +9,21 @@ draft: false
 
 ### Groceries
 
-- 4 Pork Chops
-- 150 ml Apple Cider
-- 100 ml Heavy Cream
-- 1 or 2 tsp Calvados
-- 1 Apple (Royal Gala or similar)
+- 4 pork chops
+- 150 ml apple cider
+- 100 ml heavy cream
+- 1 or 2 tsp calvados
+- 1 apple (royal gala or similar)
 - Butter
-- Shallots (Optional)
-- Leek (Optional)
-- Dijon Mustard (Optional)
-- Chicken Stock (Optional)
+- Shallots (optional)
+- Leek (optional)
+- Dijon mustard (optional)
+- Chicken stock (optional)
 
 ### Side Dish Suggestion
 
-- Mashed Potato
-- Pan Fried Potatoes
+- Mashed potato
+- Pan fried potatoes
 
 # Directions
 
@@ -37,8 +37,8 @@ draft: false
 Ingredients:
 
 - 1 Apple
-- Shallots (Optional)
-- Leek (Optional)
+- Shallots (optional)
+- Leek (optional)
 
 1. Peel the **apple** and chop it into thin slices
 2. Optionally chop the **shallots** and **leek**
@@ -51,7 +51,7 @@ Cooking time: ~15 min
 
 Ingredients:
 
-- Pork Chops
+- Pork chops
 - Salt
 
 1. Preseason the **pork chops** with salt
@@ -66,11 +66,11 @@ Ingredients:
 
 - Chopped apple
 - Chopped shallots, leek (all optional)
-- 150 ml Apple Cider
-- 100 ml Heavy Cream
-- 1 or 2 tsp Calvados
-- 1 tsp Dijon Mustard (Optional)
-- Chicken Stock (Optional)
+- 150 ml apple cider
+- 100 ml heavy cream
+- 1 or 2 tsp calvados
+- 1 tsp Dijon mustard (optional)
+- Chicken stock (optional)
 
 1. Add butter to the pan
 2. Add chopped **apples** (**shallots** and **leek**) and fry until cooked nicely
