@@ -39,7 +39,7 @@ draft: false
 - Mashed Potato
 - Pasta
 
-# Preparations
+# Directions
 
 1. Prepare side dish, e.g. wash rice etc
 2. Turn on the oven and set it to ~100°C

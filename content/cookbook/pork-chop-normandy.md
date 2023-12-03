@@ -25,7 +25,7 @@ draft: false
 - Mashed Potato
 - Pan Fried Potatoes
 
-# Preparations
+# Directions
 
 1. Prepare side dish, e.g. peel potatoes
 2. Turn on the oven and set it to ~80°C
