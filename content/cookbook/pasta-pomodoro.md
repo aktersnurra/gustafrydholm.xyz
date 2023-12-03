@@ -15,7 +15,7 @@ draft: false
 - Fennel Seeds
 - Salt
 - Pepper
-- Canned Whole San Marzano Tomatoes
+- Canned whole San Marzano tomatoes
 - Pasta
 - Basil
 - Burrata
@@ -44,10 +44,10 @@ Ingredients:
 
 Ingredients:
 
-- Chopped Shallots
-- Chopped Garlic Cloves
-- Crushed Tomatoes
-- Fennel Seeds
+- Chopped shallots
+- Chopped garlic Cloves
+- Crushed tomatoes
+- Fennel seeds
 - Basil
 
 1. Add a lot of **olive oil** to a hot pan (5/9)
@@ -61,7 +61,7 @@ Ingredients:
 
 Ingredients:
 - Burrata
-- Boiling Water
+- Boiling water
 
 1. Place the **burrata** in a bowl and open it
 2. Add **boiling water** and mix
@@ -70,14 +70,14 @@ Ingredients:
 
 Ingredients:
 - Pasta
-- Boiling Water
+- Boiling water
 
 1. Cook according to instructions
 
 ### Mix
 
 Ingredients:
-- Cooked Pasta
+- Cooked pasta
 - Parmesan
 - Sauce
 - Stracciatella
