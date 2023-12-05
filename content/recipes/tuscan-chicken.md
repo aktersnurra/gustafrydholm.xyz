@@ -5,6 +5,10 @@ tags: ["chicken", "italian"]
 draft: false
 ---
 
+- Prep time: ~10-15 min
+- Cook time: ~30-40 min
+- Servings: 2
+
 # Ingredients
 
 ### Groceries

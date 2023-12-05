@@ -5,11 +5,15 @@ tags: ["pork", "apple", "french"]
 draft: false
 ---
 
+- Prep time: <5 min
+- Cook time: ~30 min
+- Servings: 2
+
 # Ingredients
 
 ### Groceries
 
-- 4 pork chops
+- 2 pork chops
 - 150 ml apple cider
 - 100 ml heavy cream
 - 1 or 2 tsp calvados

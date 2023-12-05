@@ -5,6 +5,10 @@ tags: ["pasta", "italian"]
 draft: false
 ---
 
+- Prep time: ~5 min
+- Cook time: ~20-30 min
+- Servings: 2
+
 # Ingredients
 
 ### Groceries
