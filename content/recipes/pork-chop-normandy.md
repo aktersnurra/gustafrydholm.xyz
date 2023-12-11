@@ -13,20 +13,20 @@ draft: false
 
 ### Groceries
 
-- 2 pork chops
-- 150 ml apple cider
-- 100 ml heavy cream
-- 1 or 2 tsp calvados
 - 1 apple (royal gala or similar)
+- 1 or 2 tsp calvados
+- 100 ml heavy cream
+- 150 ml apple cider
+- 2 pork chops
 - Butter
-- Shallots (optional)
-- Leek (optional)
-- Dijon mustard (optional)
 - Chicken stock (optional)
+- Dijon mustard (optional)
+- Leek (optional)
+- Shallots (optional)
 
 ### Side Dish Suggestion
 
-- Mashed potato
+- [Mashed potato](/recipes/mashed-potatoes)
 - Pan fried potatoes
 
 # Directions
@@ -41,8 +41,8 @@ draft: false
 Ingredients:
 
 - 1 Apple
-- Shallots (optional)
 - Leek (optional)
+- Shallots (optional)
 
 1. Peel the **apple** and chop it into thin slices
 2. Optionally chop the **shallots** and **leek**
@@ -68,13 +68,13 @@ Ingredients:
 
 Ingredients:
 
-- Chopped apple
-- Chopped shallots, leek (all optional)
-- 150 ml apple cider
-- 100 ml heavy cream
 - 1 or 2 tsp calvados
 - 1 tsp Dijon mustard (optional)
+- 100 ml heavy cream
+- 150 ml apple cider
 - Chicken stock (optional)
+- Chopped apple
+- Chopped shallots, leek (all optional)
 
 1. Add butter to the pan
 2. Add chopped **apples** (**shallots** and **leek**) and fry until cooked nicely

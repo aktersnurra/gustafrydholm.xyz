@@ -13,35 +13,35 @@ draft: false
 
 ### Groceries
 
-- Chicken (at least four pieces) with skin (preferably)
-- One large Onion
-- Garlic (six cloves)
-- Tomato paste
-- Sun-dried tomatoes
-- White wine (one glass)
-- Chicken Stock
-- Heavy cream
-- Parmesan
-- Basil
 - Baby spinach
-- Olive oil
+- Basil
 - Bell pepper (optional)
-- Mushrooms (optional)
-- Peperoncini piccanti (optional)
+- Chicken (at least four pieces) with skin (preferably)
+- Chicken Stock
 - Clarified butter (optional)
+- Garlic (six cloves)
+- Heavy cream
+- Mushrooms (optional)
+- Olive oil
+- One large Onion
+- Parmesan
+- Peperoncini piccanti (optional)
+- Sun-dried tomatoes
+- Tomato paste
+- White wine (one glass)
 
 ### Spices
 
-- Onion powder
 - Garlic powder
-- Paprika
+- Onion powder
 - Oregano
+- Paprika
 
 ### Side Dish Suggestion
 
-- Rice
 - Mashed potato
 - Pasta
+- Rice
 
 # Directions
 
@@ -54,11 +54,11 @@ draft: false
 
 Ingredients:
 
+- 1 tsp garlic powder
+- 1 tsp onion powder
+- 1/2 tsp paprika
 - 4 pieces of chicken (at least)
 - Olive oil
-- 1 tsp onion powder
-- 1 tsp garlic powder
-- 1/2 tsp paprika
 - Salt & pepper to taste
 
 1. Apply **spices and seasoning** to chicken
@@ -69,11 +69,11 @@ Ingredients:
 Ingredients:
 
 - 1 onion
-- 6 garlic cloves
 - 100 g sun-dried tomatoes
+- 6 garlic cloves
 - Baby spinach
-- Mushrooms (optional)
 - Bell pepper (optional)
+- Mushrooms (optional)
 - Peperoncini piccanti (optional)
 
 1. Chop the **onion, garlic, Sun-dried tomatoes**, and optionally the **bell pepper, mushrooms**
@@ -94,8 +94,6 @@ Ingredients:
 
 Ingredients:
 
-- Chopped onion, garlic, sun-dried tomatoes
-- Chopped mushrooms, bell pepper, chili (all optional)
 - 1 tbsp clarified butter (or olive oil)
 - 1 tbsp tomato paste
 - 1 tsp oregano
@@ -106,6 +104,8 @@ Ingredients:
 - 60 g parmesan
 - Baby spinach
 - Basil
+- Chopped mushrooms, bell pepper, chili (all optional)
+- Chopped onion, garlic, sun-dried tomatoes
 
 1. Add **clarified butter** (or **olive oil**) to the pan you fried the chicken in
 2. Add **onions** and saute

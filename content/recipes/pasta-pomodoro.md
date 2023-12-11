@@ -13,17 +13,17 @@ draft: false
 
 ### Groceries
 
-- Shallots
-- Garlic
-- Olive Oil
-- Fennel Seeds
-- Salt
-- Pepper
-- Canned whole San Marzano tomatoes
-- Pasta
 - Basil
 - Burrata
+- Canned whole San Marzano tomatoes
+- Fennel Seeds
+- Garlic
+- Olive Oil
 - Parmesan
+- Pasta
+- Pepper
+- Salt
+- Shallots
 
 # Directions
 
@@ -35,8 +35,8 @@ draft: false
 Ingredients:
 
 - 1 Shallot
-- Garlic Cloves to taste
 - Canned Tomatoes
+- Garlic Cloves to taste
 
 1. Finely chop the **shallots**
 2. Smash and chop **garlic cloves**
@@ -48,11 +48,11 @@ Ingredients:
 
 Ingredients:
 
-- Chopped shallots
+- Basil
 - Chopped garlic Cloves
+- Chopped shallots
 - Crushed tomatoes
 - Fennel seeds
-- Basil
 
 1. Add a lot of **olive oil** to a hot pan (5/9)
 2. Add **shallots** and after a min the **garlic**
@@ -64,8 +64,8 @@ Ingredients:
 ### Stracciatella
 
 Ingredients:
-- Burrata
 - Boiling water
+- Burrata
 
 1. Place the **burrata** in a bowl and open it
 2. Add **boiling water** and mix
@@ -73,8 +73,8 @@ Ingredients:
 ### Pasta
 
 Ingredients:
-- Pasta
 - Boiling water
+- Pasta
 
 1. Cook according to instructions
 
