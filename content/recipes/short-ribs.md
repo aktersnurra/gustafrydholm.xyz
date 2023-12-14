@@ -92,6 +92,9 @@ Ingredients:
 7. Add **red wine**, **beef stock**, **bay leaf**, **thyme**, **cinnamon stick**
 8. Add a lid to the oven form and place in the oven
 9. Take it out after 2.5-3 hours
+10. Place the meat to the side and sieve the liquid into a sauce pan, save the carrots for serving
+11. Cook the liquid down to half/nice taste/consistency on high heat
+12. Serve
 
 # Source
 
