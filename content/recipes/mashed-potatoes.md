@@ -1,7 +1,7 @@
 ---
 title: "Mashed Potatoes"
-date: 2023-12-10 21:34:59+01:00
-tags: ["potatoes"]
+date: 2023-12-10
+tags: ["recipes", "potatoes"]
 draft: false
 ---
 
@@ -21,6 +21,7 @@ draft: false
 - Olive Oil
 - Parmesan (Optional)
 - Pepper (white or black)
+- Rosemary
 - Salt
 - Thyme
 
@@ -44,6 +45,7 @@ Ingredients:
 - Olive oil
 - Parmesan (Optional)
 - Peeled and diced potatoes
+- Rosemary
 - Salt
 - Thyme
 
@@ -51,7 +53,8 @@ Ingredients:
 2. Cook for 10-12 min
 3. Optional: make **browned butter**
 4. Pour out the water, remove the **garlic** and **thyme**
-5. Add **butter** and **heavy cream**, mix, repeat until texture is right
+5. Warm the **butter** and **cream** with **garlic**, **thyme**, **rosemary**
+5. Remove the herbs and garlic and mash the potatoes into the liquid
 6. Add seasoning to taste
 
 

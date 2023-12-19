@@ -1,7 +1,7 @@
 ---
 title: "Tuscan Chicken"
-date: 2023-12-02 23:52:01+01:00
-tags: ["chicken", "italian"]
+date: 2023-12-02
+tags: ["recipes", "chicken", "italian"]
 draft: false
 ---
 

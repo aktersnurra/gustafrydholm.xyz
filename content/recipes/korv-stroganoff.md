@@ -1,7 +1,7 @@
 ---
 title: "Korv Stroganoff"
-date: 2023-12-14 12:51:47+01:00
-tags: ["sausage", "swedish"]
+date: 2023-12-14
+tags: ["recipes", "sausage", "swedish"]
 draft: false
 ---
 

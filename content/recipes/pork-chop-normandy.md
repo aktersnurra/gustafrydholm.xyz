@@ -1,7 +1,7 @@
 ---
 title: "Pork Chop Normandy"
-date: 2023-12-03 00:59:53+01:00
-tags: ["pork", "apple", "french"]
+date: 2023-12-03
+tags: ["recipes", "pork", "apple", "french"]
 draft: false
 ---
 

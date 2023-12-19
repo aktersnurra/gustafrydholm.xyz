@@ -1,7 +1,7 @@
 ---
 title: "Pasta Pomodoro"
-date: 2023-12-03 01:43:49+01:00
-tags: ["pasta", "italian"]
+date: 2023-12-03
+tags: ["recipes", "pasta", "italian"]
 draft: false
 ---
 

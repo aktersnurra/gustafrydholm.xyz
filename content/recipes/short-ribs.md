@@ -1,7 +1,7 @@
 ---
 title: "Short Ribs"
-date: 2023-12-10 21:34:59+01:00
-tags: ["meat sauce", "french"]
+date: 2023-12-10
+tags: ["recipes", "brasied", "meat", "french"]
 draft: false
 ---
 

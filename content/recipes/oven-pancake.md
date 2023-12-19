@@ -1,7 +1,7 @@
 ---
 title: "Oven Pancake"
-date: 2023-12-14 12:51:47+01:00
-tags: ["pancake", "pork", "swedish"]
+date: 2023-12-14
+tags: ["recipes", "pancake", "pork", "swedish"]
 draft: false
 ---
 
