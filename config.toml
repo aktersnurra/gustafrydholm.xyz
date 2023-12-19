@@ -2,18 +2,27 @@ baseURL = "http://gustafrydholm.xyz/"
 languageCode = "en-us"
 title = "Gustaf Rydholm's Webpage"
 
+[params]
+favicon = "/favicon.svg"
+stylesheet = "/style.css"
+indexarticles = 50
+taglist = true
+
 [markup]
-  [markup.highlight]
-    anchorLineNos = false
-    codeFences = true
-    guessSyntax = false
-    hl_Lines = ''
-    hl_inline = false
-    lineAnchors = ''
-    lineNoStart = 1
-    lineNos = false
-    lineNumbersInTable = true
-    noClasses = true
-    noHl = false
-    style = 'solarized-light'
-    tabWidth = 2
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ''
+hl_inline = false
+lineAnchors = ''
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+noHl = false
+style = 'solarized-light'
+tabWidth = 2
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
