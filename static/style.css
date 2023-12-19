@@ -47,6 +47,18 @@ ul {
   padding: 0;
 }
 
+a {
+    color: #BAD7FF ;
+}
+
+a:hover {
+    color: white ;
+}
+
+a:visited {
+	color: #7E97AB ;
+}
+
 footer {
 	max-width: 300px ;
 	background: #151515 ;
