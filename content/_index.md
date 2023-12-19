@@ -1,6 +1,7 @@
 ---
 title: "Gustaf Rydholm's Webpage"
 description: "Landing Page"
+layout: single
 ---
 
 ## Introduction
