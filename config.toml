@@ -21,7 +21,7 @@ lineNos = false
 lineNumbersInTable = true
 noClasses = true
 noHl = false
-style = 'solarized-light'
+style = 'solarized-dark256'
 tabWidth = 2
 [markup.goldmark]
 [markup.goldmark.renderer]
