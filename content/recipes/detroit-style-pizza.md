@@ -59,7 +59,7 @@ Ingredients:
 1. Pour the tomatoes into a container, take out the stems of each tomato, squash them.
 2. Add salt, olive oil, oregano.
 
-# Pizza
+## Pizza
 
 Time for assembly
 
