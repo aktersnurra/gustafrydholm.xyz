@@ -1,9 +1,11 @@
 ---
 title: "Hugo Post Receive Hook"
-date: 2022-08-16T23:50:59+02:00
-draft: true
+date: 2022-08-16
+draft: false
 tags: ["git", "hugo"]
 ---
+
+A shell script for updating a hugo website on a remote server.
 
 ```sh
 #!/bin/sh

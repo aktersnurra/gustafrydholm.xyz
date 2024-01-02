@@ -2,7 +2,7 @@
 title: "Detroit Style Pizza"
 date: 2023-01-01
 tags: ["recipes", "italian", "pizza", "american"]
-draft: true
+draft: false
 ---
 
 - Prep time: ~60 min
