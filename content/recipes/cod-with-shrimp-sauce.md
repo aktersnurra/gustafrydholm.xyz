@@ -87,3 +87,7 @@ and let it cook until it has reached a core temperature of 48°C
 12. Boil the sauce down a bit to thicken it
 13. Taste and add seasoning
 14. Lastly, add lemon juice at the end
+
+# Source
+
+[link](https://www.youtube.com/watch?v=InNe07OThE0)
