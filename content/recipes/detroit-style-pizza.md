@@ -22,6 +22,7 @@ draft: false
 - Pepperoni
 - Salt
 - Wheat flour special
+- Other cheeses (optional)
 
 # Directions
 
@@ -72,10 +73,11 @@ Ingredients:
 - Chili flakes
 
 1. Add the sausage
-2. Add cheese
+2. Add cheese, don't forget to make a cheese crown!!
 3. Add black pepper and chili flakes
-4. Add pizza sauce
-5. Place in the oven for 25 min and check and see, we want color!!
+4. Place in the oven and bake the pizza until golden
+5. Take out the pizza and add the sauce and pepperoni
+6. Place in the oven again and bake until nice color and the pepperoni "koppar sig"
 
 
 # Source
