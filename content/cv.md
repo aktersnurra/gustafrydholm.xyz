@@ -49,6 +49,7 @@ In my spare time I am focusing on improving my skills in Haskell and Ocaml.
 | Message bus  | Kafka, SQS            |
 | NoSQL        | MongoDB               |
 | SQL          | Postgres, TimescaleDB |
+| Vector DB    | Qdrant                |
 
 I would like to try out [Nats](https://nats.io/) as a message broker,
 [skytable](https://github.com/skytable/skytable) as NoSQL database,
@@ -90,8 +91,11 @@ I use Neovim for all development, together with dwm as a tiling
 window manager, and st as the terminal of choice. I am very happy with this
 setup, but would like to improve the workflow with increased tmux usage and
 git worktrees, à la [ThePrimeagen](https://www.youtube.com/watch?v=GXxvxSlzJdI).
-I use a [ferris sweep](https://github.com/davidphilipbarr/Sweep) keyboard with
-[Colemak Mod-DH](https://colemakmods.github.io/mod-dh/) layout. I moved on from
+
+
+I build my own keyboard, and I currently have several [ferris sweep](https://github.com/davidphilipbarr/Sweep),
+but my latest build is a [Charybdis Nano](https://bastardkb.com/product/charybdis-nano-kit/) and I believe this
+to be my endgame when it comes to split keyboards. I also moved on from
 qwerty as I do not believe that you should go through life using suboptimal
 solutions from the past, just because you cannot bother learning something new.
 
@@ -104,11 +108,20 @@ philosophy](http://www.catb.org/esr/writings/taoup/html/ch01s06.html), as well
 as the [suckless philosophy](https://suckless.org/philosophy/). I truly believe
 that you develop better software by following these principles.
 
-For designing and implementing distributed web service systems, I really like
+For designing and implementing distributed systems, I really like
 the framework presented in the book *The Tao of Microservices*. Web services
 should almost be provocatively small, most communication between services
 should be asynchronous. It is important to reason and respect separation of concerns.
 You should at all cost avoid building a distributed monolith with entangled dependencies.
+I also like the idea of designing systems from first principles with defining the 
+messages first, and not focus on the services from the start.
+
+However, I have started exploring the idea of "modular monolith", I believe this to be the most
+sane approach to building software yet. It keeps the communication simple between modules, 
+e.g. inter-process instead of network calls, such as http or grpc. It has the benefit of
+having the entire source code in one place, making it easier to develop new software 
+using existing interfaces. If you develop it the right way, modules can easily be 
+extracted into separate services if necessary.
 
 #### Machine Learning
 
