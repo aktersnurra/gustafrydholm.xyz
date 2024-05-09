@@ -82,6 +82,21 @@ be a better alternative of k8s. I am also moving to [podman](https://podman.io/)
 next time I work with containers in my spare time. I am also keen on working
 more with service meshes, to improve my knowledge of their capabilities.
 
+#### Machine Learning
+
+I have worked on many machine learning projects, both at work and at home (hobby), ranging
+from time series classification, regression, generative models, and machine translation to
+name a few. My latest [project](https://github.com/aktersnurra/rag) is a Retrieval
+Augmented Generation (RAG) system for my personal library of books and articles. I plan
+on extending this to integrate with dmenu, so I can ask questions through the search bar,
+which will be pretty cool.
+
+I have also spent quite some time on a OCR [project](https://github.com/aktersnurra/text-recognizer)
+where I started with CNN-LSTM based systems to then move on to transformer models that
+I have implemented. This has been a crucial project for me, as it has kept me up to date
+with the SOTA in transformer architectures, and allowed me to test some of my own ideas out,
+most of which were not successful.
+
 #### Operating Systems
 
 I use Artix Linux as my daily OS. However, I would like to transition to OpenBSD
@@ -130,21 +145,6 @@ using existing interfaces. If you develop it the right way, modules can easily b
 extracted into separate services if necessary. But I see a downside to this approach,
 and that is how to deal with the complexity of testing multiple features/branches at
 the same time in dev/staging, maybe there is a good way?
-
-#### Machine Learning
-
-I have worked on many machine learning projects, both at work and at home (hobby), ranging
-from time series classification, regression, generative models, and machine translation to
-name a few. My latest [project](https://github.com/aktersnurra/rag) is a Retrieval
-Augmented Generation (RAG) system for my personal library of books and articles. I plan
-on extending this to integrate with dmenu, so I can ask questions through the search bar,
-which will be pretty cool.
-
-I have also spent quite some time on a OCR [project](https://github.com/aktersnurra/text-recognizer)
-where I started with CNN-LSTM based systems to then move on to transformer models that
-I have implemented. This has been a crucial project for me, as it has kept me up to date
-with the SOTA in transformer architectures, and allowed me to test some of my own ideas out,
-most of which were not successful.
 
 #### Miscellaneous
 
