@@ -12,16 +12,19 @@ draft: false
 
 ### Groceries
 
+- Bacon
 - Bay leaf
-- Rosemary
 - Chicken
 - Chicken Stock
+- Flour
 - Garlic
+- Lemon
 - Olive Oil
 - Onion
+- Other root vegetables
+- Rosemary
+- Soy sauce
 - Thyme
-- Bacon
-- Lemon
 
 ### Side Dish Suggestion
 - [Mashed potatoes](/recipes/mashed-potatoes)
@@ -29,8 +32,6 @@ draft: false
 # Directions
 
 - Preheat oven to 150˚C
-
-### Mise en Place
 
 ### Cooking
 
@@ -45,23 +46,21 @@ Ingredients:
 #### Cook Chicken in the Oven
 
 Ingredients:
-- Bay leaf
-- Water
-- Olive Oil
-- Lemon
-- Rosemary
-- Garlic
-- Onion
-- Thyme
-- Lemon
 - Bacon
-- Paprika?
+- Bay leaf
 - Carrot? Potatoes? Other root vegetables?
+- Garlic
+- Lemon
+- Olive Oil
+- Onion
+- Rosemary
+- Thyme
+- Water
 
-1. Cut the onion and lemon in quarters
+1. Cut the onion and lemon in quarters, slice the bacon
 2. Put spices, bacon, garlic and lemon inside the bird
 3. Put olive oil on the chicken
-4. Add water (stock?),  to the bottom of the roasting pan
+4. Add a cup water (stock?), to the bottom of the roasting pan
 5. Roast in the roast for 45 min at 150˚C, internal temperature of 71˚C
 6. Put the oven at max temperature
 7. Cook the chicken till well browned
