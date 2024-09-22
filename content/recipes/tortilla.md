@@ -20,7 +20,6 @@ draft: false
 
 ### Directions
 
-#### Dough
 Ingredients:
 - 1/2 Tsp Tallow
 - 1 Tsp Butter
