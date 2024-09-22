@@ -30,7 +30,7 @@ draft: false
 
 ### Mise en Place
 
-#### Vegetables
+#### Spice Mix
 Ingredients:
 - Black Pepper
 - 2 tsp Cumin
