@@ -67,16 +67,17 @@ Ingredients:
 
 ## Gravy
 - Chicken Stock
-- Sauce at the bottom of the roasting pan
-- Flour
-- Soy sauce
+- White Wine
+- Shallots
+- Fond from the roasting pan
 - Pepper
 
-1. Bring the sauce at the bottom of the pan to a boil
-2. Add flour and cook until it is a roux
+1. Add shallots
+2. Deglaze with white wine
 3. Add chicken stock
-4. Add pepper and soy
-5. Done
+4. Add seasoning
+5. Squeeze lemon
+6. Add cold butter
 
 # Source
 
