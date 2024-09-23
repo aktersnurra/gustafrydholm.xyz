@@ -17,7 +17,7 @@ book reviews/notes, cv, and digital contact information.
 - [Projects](/projects)
 - [Notes](/notes)
 - [CV](/cv)
-- [Cookbook](/recipes)
+- [Recipes](/recipes)
 - [Contact](/contact)
 
 ## Software
